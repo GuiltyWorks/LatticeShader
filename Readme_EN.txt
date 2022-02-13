@@ -6,7 +6,7 @@ It can also be stained glass style.
 
 
 [Contents List]
-・UNITYPACKAGE File (LatticeShader_ver1.00.unitypackage)
+・UNITYPACKAGE File (LatticeShader_ver1.01.unitypackage)
 ・TXT Files (Readme_JP.txt, Readme_EN.txt, LICENSE.txt)
 
 
@@ -17,10 +17,8 @@ MIT License
 
 
 [How to Use]
-1.Apply the UnlitTimeFade material to the object
+1.Apply the UnlitLattice material or StandardLattice material to the object
 2.Select Lattice Mode
-  If you select TEXTURE, set Main Texture
-  If you select COLOR, set Square Color
 3.Adjust the parameters
   Lattice: Number of lattices
   Lattice Width: Width of lattice
@@ -38,6 +36,7 @@ Unity 2017.4.15f1 (64-bit)
 
 
 [Change Logs]
+2019/06/16 ver1.01 Add CIRCLETEXTURE Mode and CIRCLECOLOR Mode
 2019/06/15 ver1.00
 
 

@@ -4,7 +4,7 @@
 
 
 [内容一覧]
-・UNITYPACKAGEファイル(LatticeShader_ver1.00.unitypackage)
+・UNITYPACKAGEファイル(LatticeShader_ver1.01.unitypackage)
 ・TXTファイル(Readme_JP.txt, Readme_EN.txt, LICENSE.txt)
 
 
@@ -15,18 +15,16 @@ MITライセンス
 
 
 [使い方]
-1.UnlitTimeFadeマテリアルをオブジェクトに適用する
-3.Lattice Modeを選択する
-  TEXTUREを選択した場合、Main Textureを設定する
-  COLORを選択した場合、Square Colorを設定する
-4.パラメーターを調整する
+1.UnlitLatticeマテリアルまたはStandardLatticeマテリアルをオブジェクトに適用する
+2.Lattice Modeを選択する
+3.パラメーターを調整する
   Lattice : 格子の数
   Lattice Width : 格子の幅
   Lattice Rotation : 格子の回転のオン/オフ
   Stained Glass : ステンドガラスの解像度
   Transparency : ステンドガラスの透明度
   Lattice Color : 格子の色
-  Square Color : 格子以外の色
+  Other Color : 格子以外の色
 
 
 
@@ -36,6 +34,7 @@ Unity 2017.4.15f1 (64-bit)
 
 
 [更新履歴]
+2019/06/16 ver1.01 CIRCLETEXTUREモードとCIRCLECOLORモードを追加
 2019/06/15 ver1.00
 
 
